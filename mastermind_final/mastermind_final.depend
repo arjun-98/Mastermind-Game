@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551073686 source:/home/users/savera/Workspace/cplus/mastermind_final/main.cpp
+	<iostream>
+	<stdio.h>
+	"mastermind.h"
+
+1550209790 /home/users/savera/Workspace/cplus/mastermind_final/include/mastermind.h
+
+1551073538 source:/home/users/savera/Workspace/cplus/mastermind_final/src/mastermind.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"mastermind.h"
+
