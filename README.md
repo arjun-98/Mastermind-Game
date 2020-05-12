@@ -1,2 +1,4 @@
 # Mastermind-Game
-An algorithm that can either make or break a 4 digit code in the mastermind
+This is a an algorithm that can play mastermind. 
+Includes options to either assume the role of code-maker or code breaker.
+No proper graphical interface available as of now.
